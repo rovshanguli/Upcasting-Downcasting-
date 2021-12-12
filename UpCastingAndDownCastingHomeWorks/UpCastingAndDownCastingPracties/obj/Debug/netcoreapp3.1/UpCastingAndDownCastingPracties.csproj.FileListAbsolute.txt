@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#_Works\UpCastingAndDownCastingPracties\UpCastingAndDownCastingPracties\bin\Debug\netcoreapp3.1\UpCastingAndDownCastingPracties.exe
+C:\Users\user\Desktop\C#_Works\UpCastingAndDownCastingPracties\UpCastingAndDownCastingPracties\bin\Debug\netcoreapp3.1\UpCastingAndDownCastingPracties.deps.json
+C:\Users\user\Desktop\C#_Works\UpCastingAndDownCastingPracties\UpCastingAndDownCastingPracties\bin\Debug\netcoreapp3.1\UpCastingAndDownCastingPracties.runtimeconfig.json
+C:\Users\user\Desktop\C#_Works\UpCastingAndDownCastingPracties\UpCastingAndDownCastingPracties\bin\Debug\netcoreapp3.1\UpCastingAndDownCastingPracties.runtimeconfig.dev.json
+C:\Users\user\Desktop\C#_Works\UpCastingAndDownCastingPracties\UpCastingAndDownCastingPracties\bin\Debug\netcoreapp3.1\UpCastingAndDownCastingPracties.dll
+C:\Users\user\Desktop\C#_Works\UpCastingAndDownCastingPracties\UpCastingAndDownCastingPracties\bin\Debug\netcoreapp3.1\UpCastingAndDownCastingPracties.pdb
+C:\Users\user\Desktop\C#_Works\UpCastingAndDownCastingPracties\UpCastingAndDownCastingPracties\obj\Debug\netcoreapp3.1\UpCastingAndDownCastingPracties.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#_Works\UpCastingAndDownCastingPracties\UpCastingAndDownCastingPracties\obj\Debug\netcoreapp3.1\UpCastingAndDownCastingPracties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#_Works\UpCastingAndDownCastingPracties\UpCastingAndDownCastingPracties\obj\Debug\netcoreapp3.1\UpCastingAndDownCastingPracties.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#_Works\UpCastingAndDownCastingPracties\UpCastingAndDownCastingPracties\obj\Debug\netcoreapp3.1\UpCastingAndDownCastingPracties.AssemblyInfo.cs
+C:\Users\user\Desktop\C#_Works\UpCastingAndDownCastingPracties\UpCastingAndDownCastingPracties\obj\Debug\netcoreapp3.1\UpCastingAndDownCastingPracties.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_Works\UpCastingAndDownCastingPracties\UpCastingAndDownCastingPracties\obj\Debug\netcoreapp3.1\UpCastingAndDownCastingPracties.dll
+C:\Users\user\Desktop\C#_Works\UpCastingAndDownCastingPracties\UpCastingAndDownCastingPracties\obj\Debug\netcoreapp3.1\UpCastingAndDownCastingPracties.pdb
+C:\Users\user\Desktop\C#_Works\UpCastingAndDownCastingPracties\UpCastingAndDownCastingPracties\obj\Debug\netcoreapp3.1\UpCastingAndDownCastingPracties.genruntimeconfig.cache
