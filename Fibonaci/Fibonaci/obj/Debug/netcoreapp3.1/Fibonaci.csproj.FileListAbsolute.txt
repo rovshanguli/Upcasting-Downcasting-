@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\HomeWorks\Upcasting&DownCastingHomeWorks\Fibonaci\Fibonaci\bin\Debug\netcoreapp3.1\Fibonaci.exe
+C:\Users\user\Desktop\HomeWorks\Upcasting&DownCastingHomeWorks\Fibonaci\Fibonaci\bin\Debug\netcoreapp3.1\Fibonaci.deps.json
+C:\Users\user\Desktop\HomeWorks\Upcasting&DownCastingHomeWorks\Fibonaci\Fibonaci\bin\Debug\netcoreapp3.1\Fibonaci.runtimeconfig.json
+C:\Users\user\Desktop\HomeWorks\Upcasting&DownCastingHomeWorks\Fibonaci\Fibonaci\bin\Debug\netcoreapp3.1\Fibonaci.runtimeconfig.dev.json
+C:\Users\user\Desktop\HomeWorks\Upcasting&DownCastingHomeWorks\Fibonaci\Fibonaci\bin\Debug\netcoreapp3.1\Fibonaci.dll
+C:\Users\user\Desktop\HomeWorks\Upcasting&DownCastingHomeWorks\Fibonaci\Fibonaci\bin\Debug\netcoreapp3.1\Fibonaci.pdb
+C:\Users\user\Desktop\HomeWorks\Upcasting&DownCastingHomeWorks\Fibonaci\Fibonaci\obj\Debug\netcoreapp3.1\Fibonaci.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\HomeWorks\Upcasting&DownCastingHomeWorks\Fibonaci\Fibonaci\obj\Debug\netcoreapp3.1\Fibonaci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\HomeWorks\Upcasting&DownCastingHomeWorks\Fibonaci\Fibonaci\obj\Debug\netcoreapp3.1\Fibonaci.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HomeWorks\Upcasting&DownCastingHomeWorks\Fibonaci\Fibonaci\obj\Debug\netcoreapp3.1\Fibonaci.AssemblyInfo.cs
+C:\Users\user\Desktop\HomeWorks\Upcasting&DownCastingHomeWorks\Fibonaci\Fibonaci\obj\Debug\netcoreapp3.1\Fibonaci.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HomeWorks\Upcasting&DownCastingHomeWorks\Fibonaci\Fibonaci\obj\Debug\netcoreapp3.1\Fibonaci.dll
+C:\Users\user\Desktop\HomeWorks\Upcasting&DownCastingHomeWorks\Fibonaci\Fibonaci\obj\Debug\netcoreapp3.1\Fibonaci.pdb
+C:\Users\user\Desktop\HomeWorks\Upcasting&DownCastingHomeWorks\Fibonaci\Fibonaci\obj\Debug\netcoreapp3.1\Fibonaci.genruntimeconfig.cache
